@@ -1,3 +1,3 @@
 # Introduction-to-Probability-and-Statistics-for-Engineers-6th-Ed
 
-Do not clone and download PDF from this repo.
+Please consider scanning this PDF upon download. Taken from an unconfirmed source.
